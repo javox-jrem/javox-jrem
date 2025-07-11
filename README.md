@@ -1,4 +1,4 @@
-# javo.jrem
+# javox-jrem
 Mi nombre es: Javier Rodrigo Encinas Mendoza
 apodo: javo
 Estudio: Ingenieria De Sistemas
